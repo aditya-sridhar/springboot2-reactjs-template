@@ -1,0 +1,7 @@
+/target/
+/client/target/
+/server/target/
+/client/build/
+/client/node_modules/
+/server/src/main/resources/static/
+/client/node/
